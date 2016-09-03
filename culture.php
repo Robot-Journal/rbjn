@@ -1,5 +1,10 @@
 <?php
 
+	/*
+	제작자 : 로봇저널 (www.rbjn.kr)
+	License : MIT License
+	*/
+
 	$setting_day = date("Ymd");
 	$ServiceKey = ""; // ServiceKey
 	$xml_file_url = "http://www.culture.go.kr/openapi/rest/publicperformancedisplays/period?ServiceKey=".$ServiceKey."&from={$setting_day}&to={$setting_day}&numOfRows=999&pageSize=999&pageNo=1&startPage=1&rows=20";

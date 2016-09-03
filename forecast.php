@@ -1,5 +1,10 @@
 <?php
 
+	/*
+	제작자 : 로봇저널 (www.rbjn.kr)
+	License : MIT License
+	*/
+
 	/* Setting */
 	$api_key = ""; // api_key
 	/* Setting */

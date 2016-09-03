@@ -1,5 +1,10 @@
 <?php
 	
+	/*
+	제작자 : 로봇저널 (www.rbjn.kr)
+	License : MIT License
+	*/	
+	
 	function getCtprvnRltmMesureDnsty($api_key, $sidoName, $numOfRows){
 
 	if($api_key && $sidoName && $numOfRows): else: exit('누락된 정보가 있습니다.'); endif;
