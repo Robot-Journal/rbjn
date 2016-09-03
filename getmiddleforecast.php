@@ -1,13 +1,15 @@
 ﻿<?php
 
 	/*
+	
 	제작자 : 로봇저널 (www.rbjn.kr)
 	License : MIT License
+	
 	*/
 	
 	global $api_key;
 	 
-	$api_key = ""; // utf8 encode
+	$api_key = ""; // utf8 encode, api key
 
 	function getMiddleForecast($api_key, $stnId, $time){ // 기상전망
 	 

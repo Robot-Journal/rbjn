@@ -1,8 +1,10 @@
 <?php
 
 	/*
+	
 	제작자 : 로봇저널 (www.rbjn.kr)
 	License : MIT License
+	
 	*/
 
 	$setting_day = date("Ymd");
